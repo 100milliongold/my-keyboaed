@@ -32,45 +32,45 @@ Text GLabel 7500 7850 0    50   Input ~ 0
 row2
 Text GLabel 7500 7950 0    50   Input ~ 0
 row3
-Text GLabel 9650 8550 2    50   Input ~ 0
-row4
-Text GLabel 9650 8450 2    50   Input ~ 0
-row5
-Text GLabel 9650 8350 2    50   Input ~ 0
-row6
 Text GLabel 7500 8050 0    50   Input ~ 0
-col0
-Text GLabel 9650 8250 2    50   Input ~ 0
-col1
-Text GLabel 9650 8150 2    50   Input ~ 0
-col2
+row4
 Text GLabel 7500 8650 0    50   Input ~ 0
-col3
+row5
 Text GLabel 7500 8750 0    50   Input ~ 0
-col4
-Text GLabel 7500 8850 0    50   Input ~ 0
-col5
-Text GLabel 7500 8950 0    50   Input ~ 0
-col6
-Text GLabel 9650 8850 2    50   Input ~ 0
-col7
-Text GLabel 7500 9050 0    50   Input ~ 0
-col8
-Text GLabel 9650 8750 2    50   Input ~ 0
-col9
-Text GLabel 9650 8650 2    50   Input ~ 0
-col10
+row6
 Text GLabel 9650 7250 2    50   Input ~ 0
-col11
+col0
 Text GLabel 9650 7350 2    50   Input ~ 0
-col12
+col1
 Text GLabel 9650 7450 2    50   Input ~ 0
-col13
+col2
 Text GLabel 9650 7550 2    50   Input ~ 0
-col14
+col3
 Text GLabel 9650 7650 2    50   Input ~ 0
-col15
+col4
 Text GLabel 9650 7750 2    50   Input ~ 0
+col5
+Text GLabel 9650 8150 2    50   Input ~ 0
+col6
+Text GLabel 9650 8250 2    50   Input ~ 0
+col7
+Text GLabel 9650 8350 2    50   Input ~ 0
+col8
+Text GLabel 9650 8450 2    50   Input ~ 0
+col9
+Text GLabel 9650 8550 2    50   Input ~ 0
+col10
+Text GLabel 9650 8650 2    50   Input ~ 0
+col11
+Text GLabel 9650 8750 2    50   Input ~ 0
+col12
+Text GLabel 9650 8850 2    50   Input ~ 0
+col13
+Text GLabel 7500 9050 0    50   Input ~ 0
+col14
+Text GLabel 7500 8950 0    50   Input ~ 0
+col15
+Text GLabel 7500 8850 0    50   Input ~ 0
 col16
 $Comp
 L keyboard_parts:USB_mini_micro_B J1
